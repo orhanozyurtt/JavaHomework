@@ -1,5 +1,3 @@
-import com.sun.security.jgss.GSSUtil;
-
 import java.util.Scanner;
 public class Exam {
     public static void main(String[] args) {
